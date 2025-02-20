@@ -38,11 +38,17 @@ Clear the board to try a new puzzle.
 
 📁 sudoku-solver-webapp
 ├── 📂 assets        # Styles and images
+
 ├── 📂 js            # JavaScript files
+
 │   ├── solver.js    # Backtracking algorithm
+
 │   ├── app.js       # UI interactions
+
 ├── 📄 index.html    # Main UI
+
 ├── 📄 styles.css    # Styling
+
 ├── 📄 README.md     # Documentation
 
 🎯 Future Enhancements
