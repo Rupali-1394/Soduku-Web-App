@@ -1,0 +1,46 @@
+.soduku-grid{
+    display : grid;
+    grid-template-columns: repeat(9, 40px);
+    grid-template-rows: repeat(9, 40px);
+    gap: 2px;
+    margin: 20px auto;justify-content: center;
+}
+
+.soduku-cell {
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid black;
+
+}
+
+.top-border {
+    border-top: 2px solid black;
+}
+
+.left-border {
+    border-top: 2px solid black;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.btn{
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius:5px;
+    color: #fff;
+}
+.reset-btn{
+    background-color: red;
+}
+
+.solve-btn{
+    background-color: green;
+}
+.btn:hover{
+    opacity: 0.65;
+}
