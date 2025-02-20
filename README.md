@@ -37,6 +37,7 @@ Clear the board to try a new puzzle.
 📂 Project Structure
 
 📁 sudoku-solver-webapp
+
 ├── 📂 assets        # Styles and images
 
 ├── 📂 js            # JavaScript files
