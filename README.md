@@ -40,11 +40,11 @@ Clear the board to try a new puzzle.
 
 ├── 📂 assets        # Styles and images
 
-├── 📂 js            # JavaScript files
+├── 📂 js            # JavaScript files  
 
-│   ├── solver.js    # Backtracking algorithm
+├── solver.js    # Backtracking algorithm
 
-│   ├── app.js       # UI interactions
+├── app.js       # UI interactions
 
 ├── 📄 index.html    # Main UI
 
